@@ -18,4 +18,4 @@ You will see all my different work layouts, from "TheChive" (not my actual work)
 
 So far I am learning alot from the bootcamp and cant wait to put my new found skills to the test. I need to focus more on my professional career benchmarks that the school provides me so I can find a job in this line of work.
 
-![Getting Started](./portfolio.jpg)
+![Getting Started](./newportfolio.png)
